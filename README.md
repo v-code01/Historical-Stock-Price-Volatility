@@ -17,6 +17,6 @@
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Historical-Stock-Price-Volatility.git
+git clone https://github.com/v-code01/Historical-Stock-Price-Volatility.git
 cd Historical-Stock-Price-Volatility
 pip install -r requirements.txt
